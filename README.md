@@ -71,6 +71,52 @@ Como se puede observar el voltaje se incremento ya que el dato que colocamos en 
 -Fuente de voltaje (12 V)
 
 
+Contruccion del circuito:
+
+Primero se coloca el amplificador operacional en el protoboar con el seintido de la media luna mirando hacia la izquierda para poder identificar de mejor manera las entradas.
+
+
+![WhatsApp Image 2022-03-06 at 11 20 12 PM](https://user-images.githubusercontent.com/93899720/156969561-4c2b1494-1e09-48e2-a400-e5d0fe0887ec.jpeg)
+
+
+Luego se coloca el potenciometro para regular la cantidad de voltaje que entra a nuestro circuito.
+
+
+![WhatsApp Image 2022-03-06 at 11 20 12 PM (1)](https://user-images.githubusercontent.com/93899720/156969637-77938d5e-a192-4b3b-b3db-a0e61b6b8065.jpeg)
+
+
+Se procede a conectar el potenciometro a la entrada no inversora del amplificador que es el pin tres de este.
+
+
+![WhatsApp Image 2022-03-06 at 11 20 14 PM](https://user-images.githubusercontent.com/93899720/156969735-721987b0-8e25-4a82-a92e-05c4fe7d8086.jpeg)
+
+
+Se procede a colocar las resistencias de acuerdo al diagrama del amplificador, la resistencia de 10 kΩ se conecta a la entrada no inversora y a su ves a la salida del amplificador.
+
+La segunda resistencia se conecta a la entrada no inversora y a su ves a tierra.
+
+por ultimo la salida de voltaje positiva que es el pin 7 del amplificador se conecta a la corriente y la salida de voltaje negativa que es el pin 4 se conecta a tierra.
+
+
+![WhatsApp Image 2022-03-06 at 11 20 18 PM](https://user-images.githubusercontent.com/93899720/156970068-6b2e20b7-6701-4153-bdee-774235e47878.jpeg)
+
+
+
+Luego se coloca dos cables uno en la parte positiva y el otro en la parte negativa del protoboard para medir intensidad.
+
+
+![WhatsApp Image 2022-03-06 at 11 20 17 PM](https://user-images.githubusercontent.com/93899720/156970188-8c1dfa21-f883-45c7-9690-0ff18a0fc326.jpeg)
+
+
+Por ultimo se conecta todo el circuito a una fuente de poder que en este caso es de 12 V.
+
+
+![WhatsApp Image 2022-03-06 at 11 20 19 PM](https://user-images.githubusercontent.com/93899720/156970248-dd14728e-f5f8-4d0f-8da1-2128e9769600.jpeg)
+![WhatsApp Image 2022-03-06 at 11 20 20 PM](https://user-images.githubusercontent.com/93899720/156970268-81df63ce-4260-4bcb-9d2c-fa8988b7f5a9.jpeg)
+![WhatsApp Image 2022-03-06 at 11 20 21 PM](https://user-images.githubusercontent.com/93899720/156970311-43d39fdd-155e-498b-9818-8fa699c52401.jpeg)
+
+
+
 4.-Video
 
 5.-Concluciones
