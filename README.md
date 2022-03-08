@@ -126,6 +126,9 @@ Por ultimo se conecta todo el circuito a una fuente de poder que en este caso es
 
 4.-Video
 
+https://youtu.be/Gl0vNnKhUPY
+
+
 5.-Concluciones
 
 -Se concluye que el amplificador sumador no inversor es muy útil para generar una onda resultante a partir de varias ondas lo que facilita tener el control sobre el voltaje.
