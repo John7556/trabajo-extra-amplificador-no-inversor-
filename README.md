@@ -4,7 +4,14 @@
 
 General
 
+-Analizar el comportamiento de un amplificador sumador no inversor e identificar las aplicaciones para este tipo de circuitos.
+
 Especificos
+
+-Comparar las simulaciones con la practica para justificar los datos.
+
+
+-Identificar las similitudes con el circuito con un amplificador no inversor.
 
 
 2.-Marco teórico
@@ -121,5 +128,21 @@ Por ultimo se conecta todo el circuito a una fuente de poder que en este caso es
 
 5.-Concluciones
 
+-Se concluye que el amplificador sumador no inversor es muy útil para generar una onda resultante a partir de varias ondas lo que facilita tener el control sobre el voltaje.
+
+
+-Se concluye que el amplificador sumador no inversor es simplemente el amplificador no inversor pero configurado para que potencie y sume voltajes.
+
+
+-Se concluye que el amplificador sumador no inversor es muy útil a la vez que versátil ya que permite combinar señales a voluntad del usuario como por ejemplo en un mezclador de audio se pueden sumar varias señales de varias entradas.
+
+
 6.-Bibliografia
 
+-	Amplificador sumador No inversor - Amplificadores operacionales. (2015). Solución ingenieril. http://solucioningenieril.com/amplificadores_operacionales/amplificador_sumador_no_inversor
+
+
+-	Op-amp Varieties. (2017). Aplicaciones: Amplificador Sumador. http://hyperphysics.phy-astr.gsu.edu/hbasees/Electronic/opampvar5.html#:%7E:text=El%20amplificador%20sumador%20es%20un,varias%20se%C3%B1ales%20con%20ganancias%20iguales.
+
+
+-	Como funciona circuito sumador no inversor y aplicaciones con OPAMP (Clase 68). (2019, 30 octubre). YouTube. https://www.youtube.com/watch?v=ocIYmhMPYJ0
